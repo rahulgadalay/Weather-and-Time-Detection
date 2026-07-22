@@ -128,17 +128,25 @@ Current time in New York
 ```
 
 ---
+## 📸 Project Screenshots
 
-# 📸 Screenshots
+### 🌦️ Weather Detection
 
-Add your screenshots in the `screenshots/` folder.
+<p align="center">
+  <img src="screenshots/weather.png" width="900">
+</p>
 
-```text
-screenshots/
-├── weather.png
-├── time.png
-└── banner.png
-```
+The AI agent intelligently identifies weather-related queries, invokes the Weather Tool through Google ADK, and retrieves real-time weather information.
+
+---
+
+### 🕒 Time Detection
+
+<p align="center">
+  <img src="screenshots/time.png" width="900">
+</p>
+
+The Time Tool determines the requested location and returns the current local time using Google's Agent Development Kit.
 
 ---
 
