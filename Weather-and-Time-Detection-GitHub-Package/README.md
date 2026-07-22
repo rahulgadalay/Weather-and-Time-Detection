@@ -201,5 +201,6 @@ This project is licensed under the MIT License.
 - Data Engineering Enthusiast
 - AI & Generative AI Developer
 - GitHub: https://github.com/rahulgadalay
+- Linkedin: https://www.linkedin.com/in/rahul-gadalay/
 
 ⭐ If you found this project useful, consider starring the repository!
